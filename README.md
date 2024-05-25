@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### 📍  🇮🇩 
+### 🌱 I’m currently learning Data Science (just starting)
 <!--
 **eetil1818/eetil1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
